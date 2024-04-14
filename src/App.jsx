@@ -11,6 +11,7 @@ import Series from './components/Series'
 import SeriesBanner from './components/Series'
 import Footer from './components/Footer'
 import Testimonials from './components/Testimonials'
+import Different from './components/Different'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
       <About2 />
       <Services />
       <SeriesBanner />
+      <Different />
       <Testimonials />
       <Footer />
     </>
